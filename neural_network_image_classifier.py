@@ -1,6 +1,3 @@
-#Elmeri Lehtiniemi
-#Dataml100, ex5 Neural Network
-
 import tensorflow as tf
 from tensorflow.keras import models, optimizers
 from tensorflow.keras.models import Sequential
